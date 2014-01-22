@@ -1,5 +1,5 @@
 # [No Main] (js:No output)
--main ChuckNorris
--js ChuckNorris.js
+-main Horses
+-js Horses.js
 -cp CodinGame/
 -cmd "sed -i s/\"{INPUT}\"/readline\(\)/g *.js; sed -i s/9999/readline\(\)/g *.js; sed -i s/console\.log/print/g *.js"
