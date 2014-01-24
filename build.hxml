@@ -1,5 +1,5 @@
 # [No Main] (js:No output)
--main Horses
--js Horses.js
+-main SuperComputer
+-js CodinGame/JS/SuperComputer.js
 -cp CodinGame/
--cmd "sed -i s/\"{INPUT}\"/readline\(\)/g *.js; sed -i s/9999/readline\(\)/g *.js; sed -i s/console\.log/print/g *.js"
+-cmd "sed -i s/\"{INPUT}\"/readline\(\)/g CodinGame/JS/*.js; sed -i s/9999/readline\(\)/g CodinGame/JS/*.js; sed -i s/console\.log/print/g CodinGame/JS/*.js"
