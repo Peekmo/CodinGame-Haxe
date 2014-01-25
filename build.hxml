@@ -1,5 +1,5 @@
 # [No Main] (js:No output)
--main SuperComputer
--js CodinGame/JS/SuperComputer.js
+-main Surface
+-js CodinGame/JS/Surface.js
 -cp CodinGame/
 -cmd "sed -i s/\"{INPUT}\"/readline\(\)/g CodinGame/JS/*.js; sed -i s/9999/readline\(\)/g CodinGame/JS/*.js; sed -i s/console\.log/print/g CodinGame/JS/*.js"
