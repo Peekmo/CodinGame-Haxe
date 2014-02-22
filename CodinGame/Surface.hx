@@ -43,6 +43,7 @@ class Surface
                 }
             }
         }
+            var dist: Int = cast(Math.abs(coords.x - cPoints[1].x), Int);
 
         var n : Int = 9999;
         var iterator : IntIterator = new IntIterator(0, n);
