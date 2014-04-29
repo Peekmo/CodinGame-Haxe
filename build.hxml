@@ -1,4 +1,4 @@
--main RollerCoaster
--js CodinGame/JS/RollerCoaster.js
+-main AprilHard
+-js CodinGame/JS/AprilHard.js
 -cp CodinGame/
 -cmd "sed -i s/\"{INPUT}\"/readline\(\)/g CodinGame/JS/*.js; sed -i s/9999/readline\(\)/g CodinGame/JS/*.js; sed -i s/console\.log/print/g CodinGame/JS/*.js"
